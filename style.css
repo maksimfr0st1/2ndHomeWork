@@ -21,12 +21,9 @@ header {
 
 header span {
     /* Стили для текста в хедере IT-INCUBATOR */
-    font-family: "Inter", sans-serif;
     font-weight: 700;
     font-size: 20px;
     color: #fff;
-
-
 }
 
 .main-section {
@@ -40,19 +37,15 @@ header span {
 
 .main-title {
     /* Стили для заголовка в первой секции */
-    font-family: "Inter", sans-serif;
     font-weight: 700;
     font-size: 48px;
-    color: #303030;
     margin-bottom: 20px;
 }
 
 .main-text {
     /* Стили для текста в первой секции */
-    font-family: "Inter", sans-serif;
     font-weight: 400;
     font-size: 18px;
-    color: #303030;
 }
 
 .main-image {
@@ -79,18 +72,14 @@ select {
     background-repeat: no-repeat;
     background-position: right center;
     padding-left: 12px;
-    font-family: "Inter", sans-serif;
     font-weight: 400;
     font-size: 16px;
-    color: #303030;
 }
 
 .section-title {
     /* Стили для заголовков во второй секции */
-    font-family: "Inter", sans-serif;
     font-weight: 700;
     font-size: 24px;
-    color: #303030;
     margin-bottom: 25px;
 }
 
@@ -98,28 +87,21 @@ select {
     /* Стили для маркированного списка во второй секции */
     list-style-image: url(/list-style-image.png);
     padding-left: 20px;
-    font-family: "Inter", sans-serif;
     font-weight: 400;
     font-size: 16px;
-    color: #303030;
-
 }
 
 .books-list {
     /* Стили для нумерованного списка во второй секции */
     padding-left: 20px;
-    font-family: "Inter", sans-serif;
     font-weight: 400;
     font-size: 16px;
-    color: #303030;
 }
 
 .label {
     /* Стили для подписей чекбоксов */
-    font-family: "Inter", sans-serif;
     font-weight: 400;
     font-size: 16px;
-    color: #303030;
 }
 
 .text-field {
@@ -129,7 +111,6 @@ select {
     width: 330px;
     height: 36px;
     background: rgba(255, 255, 255, 0);
-    font-family: "Inter", sans-serif;
     font-weight: 400;
     font-size: 16px;
     padding-left: 12px;
@@ -142,7 +123,6 @@ select {
     width: 125px;
     height: 36px;
     background: #2965f1;
-    font-family: "Inter", sans-serif;
     font-weight: 700;
     font-size: 14px;
     color: #fff;
@@ -166,7 +146,6 @@ table {
 th, td {
     /* Стили для ячеек таблицы */
     padding: 15px;
-    color: #303030;
 }
 
 footer {
