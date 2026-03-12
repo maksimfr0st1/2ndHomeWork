@@ -142,7 +142,6 @@ select {
 table {
     /* Стили для таблицы */
     border-collapse: collapse;
-    font-family: "Inter", sans-serif;
 }
 
 th, td {
