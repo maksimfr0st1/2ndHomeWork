@@ -6,8 +6,6 @@
 }
 
 body {
-    font-style: normal;
-    line-height: normal;
     font-family: "Inter", sans-serif;
     color: #303030; 
 }
@@ -70,7 +68,7 @@ select {
     width: 150px;
     height: 36px;
     appearance: none;
-    background-image: url(/Vector.png);
+    background-image: url("/Vector.png");
     background-repeat: no-repeat;
     background-position: right center;
     padding-left: 12px;
@@ -84,14 +82,15 @@ select {
     font-size: 24px;
     margin-bottom: 25px;
 }
-
+/* asd */
 .frameworks-list {
     /* Стили для маркированного списка во второй секции */
-    list-style-image: url(/list-style-image.png);
+    list-style-image: url("/list-style-image.png");
     padding-left: 20px;
     font-weight: 400;
     font-size: 16px;
 }
+
 
 .books-list {
     /* Стили для нумерованного списка во второй секции */
@@ -153,7 +152,7 @@ footer {
     /* Стили для футера */
     width: 1440px;
     height: 70px;
-    background: rgba(163, 167, 2git55, 0.3);
+    background: rgba(163, 167, 255, 0.3);
     padding-bottom: 27px;
     padding-top: 26px;
 }
